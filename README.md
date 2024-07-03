@@ -39,9 +39,18 @@ Leetcode Problems
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0029-divide-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0029-divide-two-integers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
