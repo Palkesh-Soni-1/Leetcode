@@ -19,14 +19,12 @@ class Solution {
                 return false;
             }
         }
-        // cout<<"YES"<<endl;
         path[start]=0;
         return true;
     }
     void dfs(int start,vector<int>&visi,vector<vector<int>>&dum, vector<int>&ans)
     {
         visi[start]=1;
-        // path[start]=1;
         for(auto i:dum[start])
         {
             if(visi[i]==0)
@@ -34,7 +32,6 @@ class Solution {
                 dfs(i,visi,dum,ans);
             }
         }
-        // cout<<"NO"<<endl;
         ans.push_back(start);
     }
 public:
