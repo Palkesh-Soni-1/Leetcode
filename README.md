@@ -36,6 +36,7 @@ Leetcode Problems
 | ------- |
 | [0101-symmetric-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -74,6 +75,7 @@ Leetcode Problems
 | ------- |
 | [0101-symmetric-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -99,12 +101,14 @@ Leetcode Problems
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
