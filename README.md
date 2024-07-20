@@ -6,6 +6,7 @@ Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0136-single-number) |
@@ -154,5 +155,6 @@ Leetcode Problems
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
