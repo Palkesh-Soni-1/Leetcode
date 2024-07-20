@@ -7,6 +7,7 @@ Leetcode Problems
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0733-flood-fill) |
@@ -73,6 +74,7 @@ Leetcode Problems
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0136-single-number) |
 ## Linked List
 |  |
 | ------- |
