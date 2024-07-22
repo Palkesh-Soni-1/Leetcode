@@ -31,7 +31,6 @@ public:
         int n = graph.size();
         int m = graph[0].size();
         vector<int>v(n,-1);
-        // vector<int>c(n,-1)
         for(int i=0;i<n;i++)
         {
             if(v[i]==-1)
@@ -39,10 +38,6 @@ public:
                 if(!check(i,graph,v))
                 return false;
             }
-        }
-        for(int i=0;i<n;i++)
-        {
-            cout<<v[i]<<" ";
         }
         return true;
     }
