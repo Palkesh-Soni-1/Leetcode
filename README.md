@@ -7,6 +7,7 @@ Leetcode Problems
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
@@ -63,6 +64,7 @@ Leetcode Problems
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
@@ -74,6 +76,7 @@ Leetcode Problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0070-climbing-stairs) |
 | [2050-count-good-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2050-count-good-numbers) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
