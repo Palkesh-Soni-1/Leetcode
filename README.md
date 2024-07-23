@@ -6,6 +6,7 @@ Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0046-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0054-spiral-matrix) |
@@ -28,6 +29,7 @@ Leetcode Problems
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -168,4 +170,8 @@ Leetcode Problems
 | ------- |
 | [0046-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
