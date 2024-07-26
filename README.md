@@ -21,6 +21,7 @@ Leetcode Problems
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Leetcode Problems
 | [0198-house-robber](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3442-maximum-total-reward-using-operations-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## Breadth-First Search
 |  |
 | ------- |
