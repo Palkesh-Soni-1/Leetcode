@@ -22,6 +22,7 @@ Leetcode Problems
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2727-number-of-senior-citizens](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -107,6 +108,7 @@ Leetcode Problems
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Linked List
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Leetcode Problems
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Counting
 |  |
 | ------- |
