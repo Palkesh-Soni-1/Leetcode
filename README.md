@@ -15,6 +15,7 @@ Leetcode Problems
 | [0136-single-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0198-house-robber) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0792-binary-search) |
@@ -31,6 +32,7 @@ Leetcode Problems
 | [0127-word-ladder](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -104,6 +106,7 @@ Leetcode Problems
 | [0029-divide-two-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0136-single-number) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -212,6 +215,7 @@ Leetcode Problems
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Counting
 |  |
 | ------- |
