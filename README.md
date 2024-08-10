@@ -20,6 +20,7 @@ Leetcode Problems
 | [0733-flood-fill](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0792-binary-search) |
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -35,6 +36,7 @@ Leetcode Problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Two Pointers
@@ -75,6 +77,7 @@ Leetcode Problems
 | [0801-is-graph-bipartite](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -87,6 +90,7 @@ Leetcode Problems
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0733-flood-fill) |
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Math
@@ -138,6 +142,7 @@ Leetcode Problems
 | [0801-is-graph-bipartite](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
@@ -166,6 +171,7 @@ Leetcode Problems
 | ------- |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0801-is-graph-bipartite) |
+| [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
