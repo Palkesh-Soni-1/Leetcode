@@ -8,6 +8,7 @@ Leetcode Problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0054-spiral-matrix) |
@@ -213,6 +214,7 @@ Leetcode Problems
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 ## Greedy
