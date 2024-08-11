@@ -10,6 +10,7 @@ Leetcode Problems
 | [0039-combination-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
@@ -216,6 +217,7 @@ Leetcode Problems
 | [0039-combination-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 ## Greedy
 |  |
