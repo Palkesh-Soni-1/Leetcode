@@ -3,7 +3,6 @@ public:
     vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         sort(candidates.begin(), candidates.end());
         vector<vector<int>> res;
-
         vector<int> comb;
         dfs(candidates, target, 0, comb, res);
         return res;        
