@@ -63,6 +63,7 @@ Leetcode Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0198-house-robber) |
@@ -106,6 +107,7 @@ Leetcode Problems
 | [0002-add-two-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -258,4 +260,8 @@ Leetcode Problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
