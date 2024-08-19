@@ -19,7 +19,6 @@ public:
             temp+=cardPoints[z];
         }
         ans = temp;
-        // l = x;
         x = (x+1)%n;
         r = (x+k-1)%n;
         cout<<temp<<endl;
