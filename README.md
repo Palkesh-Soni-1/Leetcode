@@ -151,12 +151,14 @@ Leetcode Problems
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
@@ -172,6 +174,7 @@ Leetcode Problems
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -287,4 +290,8 @@ Leetcode Problems
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
