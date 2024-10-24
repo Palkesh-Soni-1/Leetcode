@@ -62,6 +62,7 @@ Leetcode Problems
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0792-binary-search) |
 ## Sorting
@@ -122,6 +123,7 @@ Leetcode Problems
 | [0029-divide-two-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
