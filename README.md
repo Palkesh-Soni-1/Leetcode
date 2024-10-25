@@ -88,6 +88,7 @@ Leetcode Problems
 | [0063-unique-paths-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0322-coin-change) |
@@ -137,6 +138,7 @@ Leetcode Problems
 | [0062-unique-paths](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -169,6 +171,7 @@ Leetcode Problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -193,6 +196,7 @@ Leetcode Problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -292,6 +296,7 @@ Leetcode Problems
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
