@@ -15,6 +15,7 @@ Leetcode Problems
 | [0046-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -87,6 +88,7 @@ Leetcode Problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0070-climbing-stairs) |
@@ -332,4 +334,5 @@ Leetcode Problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
