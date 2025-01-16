@@ -45,6 +45,7 @@ Leetcode Problems
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2727-number-of-senior-citizens](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
@@ -170,6 +171,7 @@ Leetcode Problems
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Linked List
 |  |
@@ -353,4 +355,8 @@ Leetcode Problems
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
