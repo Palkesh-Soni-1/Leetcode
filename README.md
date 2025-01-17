@@ -48,6 +48,7 @@ Leetcode Problems
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2727-number-of-senior-citizens](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## Hash Table
 |  |
@@ -173,6 +174,7 @@ Leetcode Problems
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Linked List
 |  |
 | ------- |
