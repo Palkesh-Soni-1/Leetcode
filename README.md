@@ -40,6 +40,7 @@ Leetcode Problems
 | [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -130,6 +131,7 @@ Leetcode Problems
 | [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Matrix
@@ -146,6 +148,7 @@ Leetcode Problems
 | [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Math
 |  |
@@ -258,6 +261,7 @@ Leetcode Problems
 | [0801-is-graph-bipartite](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Topological Sort
 |  |
@@ -275,10 +279,12 @@ Leetcode Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Backtracking
 |  |
