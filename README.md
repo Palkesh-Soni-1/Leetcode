@@ -21,6 +21,7 @@ Leetcode Problems
 | [0054-spiral-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
@@ -93,6 +94,7 @@ Leetcode Problems
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -153,6 +155,7 @@ Leetcode Problems
 | [0054-spiral-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
