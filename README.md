@@ -54,6 +54,7 @@ Leetcode Problems
 | [2727-number-of-senior-citizens](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## Hash Table
 |  |
@@ -102,6 +103,7 @@ Leetcode Problems
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -267,6 +269,7 @@ Leetcode Problems
 | [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
 | ------- |
