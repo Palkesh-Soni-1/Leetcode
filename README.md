@@ -11,6 +11,7 @@ Leetcode Problems
 | [0031-next-permutation](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0046-permutations) |
@@ -90,6 +91,7 @@ Leetcode Problems
 | [0004-median-of-two-sorted-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
