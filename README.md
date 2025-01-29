@@ -139,6 +139,7 @@ Leetcode Problems
 | [0322-coin-change](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -235,6 +236,7 @@ Leetcode Problems
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -279,6 +281,7 @@ Leetcode Problems
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
+| [0684-redundant-connection](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -290,6 +293,7 @@ Leetcode Problems
 | ------- |
 | [0207-course-schedule](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0820-find-eventual-safe-states) |
