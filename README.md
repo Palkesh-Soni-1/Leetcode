@@ -412,4 +412,8 @@ Leetcode Problems
 |  |
 | ------- |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
