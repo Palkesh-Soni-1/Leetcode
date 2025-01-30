@@ -153,6 +153,7 @@ Leetcode Problems
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1876-map-of-highest-peak](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -286,6 +287,7 @@ Leetcode Problems
 | [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1396-count-servers-that-communicate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
@@ -301,6 +303,7 @@ Leetcode Problems
 | [1558-course-schedule-iv](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
 |  |
 | ------- |
