@@ -207,6 +207,7 @@ Leetcode Problems
 | [0067-add-binary](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -415,6 +416,7 @@ Leetcode Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
