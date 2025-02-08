@@ -86,6 +86,7 @@ Leetcode Problems
 | [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1364-tuple-with-same-product](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2434-design-a-number-container-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -347,6 +348,7 @@ Leetcode Problems
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Shortest Path
 |  |
 | ------- |
@@ -377,6 +379,7 @@ Leetcode Problems
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2434-design-a-number-container-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Trie
 |  |
 | ------- |
@@ -443,4 +446,8 @@ Leetcode Problems
 | ------- |
 | [0584-find-customer-referee](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Ordered Set
+|  |
+| ------- |
+| [2434-design-a-number-container-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2434-design-a-number-container-system) |
 <!---LeetCode Topics End-->
