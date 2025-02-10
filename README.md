@@ -295,6 +295,7 @@ Leetcode Problems
 | [2727-number-of-senior-citizens](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3447-clear-digits](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -303,6 +304,7 @@ Leetcode Problems
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Union Find
 |  |
@@ -430,6 +432,7 @@ Leetcode Problems
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [3447-clear-digits](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3447-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
