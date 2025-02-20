@@ -59,6 +59,7 @@ Leetcode Problems
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2107-find-unique-binary-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2448-count-number-of-bad-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -90,6 +91,7 @@ Leetcode Problems
 | [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1364-tuple-with-same-product](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -300,6 +302,7 @@ Leetcode Problems
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2727-number-of-senior-citizens](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -381,6 +384,7 @@ Leetcode Problems
 | [0095-unique-binary-search-trees-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Greedy
 |  |
