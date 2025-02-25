@@ -53,6 +53,7 @@ Leetcode Problems
 | [1477-product-of-the-last-k-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -151,6 +152,7 @@ Leetcode Problems
 | [0416-partition-equal-subset-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 ## Breadth-First Search
 |  |
@@ -219,6 +221,7 @@ Leetcode Problems
 | [0273-integer-to-english-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -460,6 +463,7 @@ Leetcode Problems
 | [0560-subarray-sum-equals-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Stack
 |  |
 | ------- |
