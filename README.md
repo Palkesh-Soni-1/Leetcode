@@ -77,6 +77,7 @@ Leetcode Problems
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -107,6 +108,7 @@ Leetcode Problems
 | [2685-first-completely-painted-row-or-column](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -219,6 +221,7 @@ Leetcode Problems
 | [1876-map-of-highest-peak](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -241,6 +244,7 @@ Leetcode Problems
 | [2448-count-number-of-bad-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3227-find-missing-and-repeated-values](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 ## Bit Manipulation
 |  |
