@@ -173,6 +173,7 @@ Leetcode Problems
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0127-word-ladder](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0207-course-schedule) |
@@ -282,6 +283,7 @@ Leetcode Problems
 | [0098-validate-binary-search-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -322,6 +324,7 @@ Leetcode Problems
 | [0098-validate-binary-search-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0101-symmetric-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
