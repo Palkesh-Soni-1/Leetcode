@@ -84,6 +84,7 @@ Leetcode Problems
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3483-alternating-groups-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Leetcode Problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0792-binary-search) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -512,6 +514,7 @@ Leetcode Problems
 | [1477-product-of-the-last-k-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Stack
 |  |
 | ------- |
