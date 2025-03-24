@@ -254,6 +254,7 @@ Leetcode Problems
 | [0002-add-two-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0069-sqrtx) |
@@ -300,6 +301,7 @@ Leetcode Problems
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2050-count-good-numbers) |
