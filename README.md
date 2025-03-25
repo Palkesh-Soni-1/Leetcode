@@ -93,6 +93,7 @@ Leetcode Problems
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
@@ -170,6 +171,7 @@ Leetcode Problems
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
 | ------- |
