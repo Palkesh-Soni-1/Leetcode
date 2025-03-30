@@ -110,6 +110,7 @@ Leetcode Problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0768-partition-labels) |
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -138,6 +139,7 @@ Leetcode Problems
 | [0031-next-permutation](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0031-next-permutation) |
 | [0349-intersection-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0768-partition-labels](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -383,6 +385,7 @@ Leetcode Problems
 | [0127-word-ladder](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0273-integer-to-english-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0768-partition-labels](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0768-partition-labels) |
 | [1170-shortest-common-supersequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -491,6 +494,7 @@ Leetcode Problems
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0011-container-with-most-water) |
+| [0768-partition-labels](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0768-partition-labels) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Queue
