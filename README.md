@@ -57,6 +57,7 @@ Leetcode Problems
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1656-count-good-triplets) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -641,6 +642,7 @@ Leetcode Problems
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
