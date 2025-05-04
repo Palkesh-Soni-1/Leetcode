@@ -52,6 +52,7 @@ Leetcode Problems
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -138,6 +139,7 @@ Leetcode Problems
 | [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1500-count-largest-group) |
@@ -573,6 +575,7 @@ Leetcode Problems
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
