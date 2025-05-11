@@ -34,6 +34,7 @@ Leetcode Problems
 | [0215-kth-largest-element-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -174,6 +175,7 @@ Leetcode Problems
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0031-next-permutation) |
 | [0189-rotate-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0768-partition-labels](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0768-partition-labels) |
