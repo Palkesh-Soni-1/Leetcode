@@ -42,6 +42,7 @@ Leetcode Problems
 | [0407-trapping-rain-water-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0733-flood-fill) |
