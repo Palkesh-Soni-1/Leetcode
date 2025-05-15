@@ -9,6 +9,7 @@ public:
             if(mp.find(s[i])!=mp.end())
             {
                 start = max(start,mp[s[i]]+1); 
+                // start = mp[s[i]]+1;
             }
             mp[s[i]]=i;
             end = i;
