@@ -23,6 +23,7 @@ Leetcode Problems
 | [0063-unique-paths-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -182,6 +183,7 @@ Leetcode Problems
 | [0011-container-with-most-water](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -218,6 +220,7 @@ Leetcode Problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
