@@ -107,6 +107,7 @@ Leetcode Problems
 | [2685-first-completely-painted-row-or-column](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -229,6 +230,7 @@ Leetcode Problems
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2690-house-robber-iv) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Sorting
 |  |
@@ -636,6 +638,7 @@ Leetcode Problems
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2681-put-marbles-in-bags) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
