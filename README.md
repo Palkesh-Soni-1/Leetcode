@@ -123,6 +123,7 @@ Leetcode Problems
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3429-special-array-i) |
@@ -250,6 +251,7 @@ Leetcode Problems
 | [2681-put-marbles-in-bags](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -646,6 +648,7 @@ Leetcode Problems
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Queue
