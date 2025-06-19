@@ -49,6 +49,7 @@ Leetcode Problems
 | [0485-max-consecutive-ones](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0733-flood-fill) |
 | [0792-binary-search](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0797-rabbits-in-forest) |
@@ -643,6 +644,7 @@ Leetcode Problems
 | ------- |
 | [0011-container-with-most-water](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0135-candy) |
+| [0605-can-place-flowers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
