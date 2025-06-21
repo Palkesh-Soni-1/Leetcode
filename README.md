@@ -77,6 +77,7 @@ Leetcode Problems
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1656-count-good-triplets) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -298,6 +299,7 @@ Leetcode Problems
 | [0806-domino-and-tromino-tiling](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -759,6 +761,7 @@ Leetcode Problems
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2478-longest-nice-subarray) |
