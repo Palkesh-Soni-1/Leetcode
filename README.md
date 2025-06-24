@@ -109,6 +109,7 @@ Leetcode Problems
 | [2308-divide-array-into-equal-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2428-equal-row-and-column-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -191,6 +192,7 @@ Leetcode Problems
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2434-design-a-number-container-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -377,6 +379,7 @@ Leetcode Problems
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1876-map-of-highest-peak](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -581,6 +584,7 @@ Leetcode Problems
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2428-equal-row-and-column-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2551-apply-operations-to-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3447-clear-digits) |
