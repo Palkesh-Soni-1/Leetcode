@@ -715,6 +715,7 @@ Leetcode Problems
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -724,6 +725,7 @@ Leetcode Problems
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Trie
@@ -768,6 +770,7 @@ Leetcode Problems
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Combinatorics
 |  |
