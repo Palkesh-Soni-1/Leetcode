@@ -460,6 +460,7 @@ Leetcode Problems
 | [0002-add-two-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0050-powx-n) |
 | [0273-integer-to-english-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2050-count-good-numbers) |
 ## Tree
@@ -540,6 +541,7 @@ Leetcode Problems
 | [0273-integer-to-english-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0768-partition-labels](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0768-partition-labels) |
@@ -816,6 +818,7 @@ Leetcode Problems
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0394-decode-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2470-removing-stars-from-a-string) |
