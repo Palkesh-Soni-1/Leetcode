@@ -544,6 +544,7 @@ Leetcode Problems
 | [0394-decode-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0443-string-compression) |
 | [0516-longest-palindromic-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0649-dota2-senate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0768-partition-labels) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -696,6 +697,7 @@ Leetcode Problems
 | [0135-candy](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -715,6 +717,7 @@ Leetcode Problems
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
