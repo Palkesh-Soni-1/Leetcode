@@ -28,8 +28,8 @@ public:
             cout<<temp2->val<<endl;
             temp2=temp2->next;
         }
-        if(temp2)
-        temp2->next=NULL;
+        // if(temp2)
+        // temp2->next=NULL;
         if(temp1)
         temp1->next=temp22;
         return head;
