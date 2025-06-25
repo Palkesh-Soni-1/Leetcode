@@ -353,6 +353,7 @@ Leetcode Problems
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1876-map-of-highest-peak](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -491,6 +492,7 @@ Leetcode Problems
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -518,6 +520,7 @@ Leetcode Problems
 | [1073-number-of-enclaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1396-count-servers-that-communicate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -543,6 +546,7 @@ Leetcode Problems
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String
 |  |
 | ------- |
