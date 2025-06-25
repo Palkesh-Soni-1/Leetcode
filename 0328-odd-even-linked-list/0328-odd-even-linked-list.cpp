@@ -16,18 +16,19 @@ public:
         ListNode* temp1 = head;
         ListNode* temp2 = head->next;
         ListNode* temp22 = temp2;
-        temp1->next=temp1->next->next;
-        temp1 = temp1->next;
+        // temp1->next=temp1->next->next;
+        // temp1 = temp1->next;
         while(temp1&&temp1->next!=NULL)
         {
-            temp2->next=temp1->next;
-            cout<<temp2->val<<endl;
-            temp2=temp2->next;
             if(temp1->next->next==NULL)
             break;
             temp1->next = temp1->next->next;
             temp1=temp1->next;
+            temp2->next=temp1->next;
+            cout<<temp2->val<<endl;
+            temp2=temp2->next;
         }
+        if(temp2)
         temp2->next=NULL;
         if(temp1)
         temp1->next=temp22;
