@@ -28,11 +28,6 @@ public:
             temp1->next = temp1->next->next;
             temp1=temp1->next;
         }
-        // while(temp2->next!=NULL&&temp2->next->next!=NULL)
-        // {
-        //     temp2->next = temp2->next->next;
-        //     temp2=temp2->next;
-        // }
         temp2->next=NULL;
         if(temp1)
         temp1->next=temp22;
