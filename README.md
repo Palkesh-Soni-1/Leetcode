@@ -457,6 +457,7 @@ Leetcode Problems
 | ------- |
 | [0002-add-two-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
