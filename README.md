@@ -50,6 +50,7 @@ Leetcode Problems
 | [0416-partition-equal-subset-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -260,6 +261,7 @@ Leetcode Problems
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -881,6 +883,7 @@ Leetcode Problems
 | [0053-maximum-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Quickselect
@@ -926,6 +929,7 @@ Leetcode Problems
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Number Theory
@@ -952,14 +956,17 @@ Leetcode Problems
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Monotonic Queue
 |  |
