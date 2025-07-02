@@ -65,6 +65,7 @@ Leetcode Problems
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0926-find-and-replace-pattern](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0945-snakes-and-ladders](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1039-find-the-town-judge](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -180,6 +181,7 @@ Leetcode Problems
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0926-find-and-replace-pattern](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [0999-regions-cut-by-slashes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1039-find-the-town-judge) |
@@ -580,6 +582,7 @@ Leetcode Problems
 | [0516-longest-palindromic-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0649-dota2-senate) |
 | [0768-partition-labels](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0768-partition-labels) |
+| [0926-find-and-replace-pattern](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0926-find-and-replace-pattern) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1170-shortest-common-supersequence) |
