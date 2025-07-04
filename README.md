@@ -36,6 +36,7 @@ Leetcode Problems
 | [0152-maximum-product-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -172,6 +173,7 @@ Leetcode Problems
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
@@ -287,6 +289,7 @@ Leetcode Problems
 | [0056-merge-intervals](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
@@ -797,6 +800,7 @@ Leetcode Problems
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0169-majority-element) |
 | [0594-longest-harmonious-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -895,6 +899,7 @@ Leetcode Problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
