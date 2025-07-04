@@ -6,6 +6,7 @@ Leetcode Problems
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -165,6 +166,7 @@ Leetcode Problems
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0073-set-matrix-zeroes) |
