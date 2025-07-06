@@ -104,6 +104,7 @@ Leetcode Problems
 | [1927-maximum-ascending-subarray-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -205,6 +206,7 @@ Leetcode Problems
 | [1777-determine-if-two-strings-are-close](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2107-find-unique-binary-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -799,6 +801,7 @@ Leetcode Problems
 | [0789-kth-largest-element-in-a-stream](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2434-design-a-number-container-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Trie
 |  |
