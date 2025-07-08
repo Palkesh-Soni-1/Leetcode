@@ -1,0 +1,33 @@
+class Solution {
+public:
+    int n;
+    vector<vector<int>> dp;
+
+    int dfs(int i, int k, vector<vector<int>>& events, vector<int>& startDays) {
+        if (i == n || k == 0)
+            return 0;
+
+        if (dp[i][k] != -1)
+            return dp[i][k];
+
+        int nextIndex = lower_bound(startDays.begin(), startDays.end(), events[i][1] + 1) - startDays.begin();
+
+        int take = events[i][2] + dfs(nextIndex, k - 1, events, startDays);
+        int skip = dfs(i + 1, k, events, startDays);
+
+        return dp[i][k] = max(take, skip);
+    }
+
+    int maxValue(vector<vector<int>>& events, int k) {
+        sort(events.begin(), events.end());
+        n = events.size();
+
+        vector<int> startDays;
+        for (auto& e : events)
+            startDays.push_back(e[0]);
+
+        dp = vector<vector<int>>(n, vector<int>(k + 1, -1));
+
+        return dfs(0, k, events, startDays);
+    }
+};
