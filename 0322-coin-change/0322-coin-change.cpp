@@ -1,32 +1,28 @@
-int solve(int i, int w, vector<int> wt, vector<vector<int>>&dp)
-{
-    if(w==0)
-    {
-        return 0;
-    }
-    if(i==0)
-    {
-        int x = w/wt[i];
-        if((w)%wt[i]==0)
-        return (1 * x);
-        return 1e7;
-    }
-    if(dp[i][w]!=-1)
-    return dp[i][w];
-    int take=INT_MAX;
-    if(w-wt[i]>=0)
-    take = 1 + solve(i,w-wt[i],wt,dp);
-    int ntake = 0 + solve(i-1,w,wt,dp);
-    return dp[i][w]=min(ntake,take);
-}
 class Solution {
 public:
     int coinChange(vector<int>& coins, int amount) {
-        int N = coins.size();
-        vector<vector<int>>dp(N,vector<int>(amount+1,-1)) ; 
-        int ans = solve(N-1, amount ,coins,dp); 
-        if(ans==1e7)
+        int n = coins.size();
+        vector<vector<int>>dp(n+1, vector<int>(amount+1));
+
+        for(int i=0;i<amount+1;i++)
+        dp[0][i]=INT_MAX-1;
+        for(int i=0;i<n+1;i++)
+        dp[i][0]=0;
+
+        for(int i=1;i<=n;i++)
+        {
+            for(int j=1;j<=amount;j++)
+            {
+                if(coins[i-1]<=j)
+                dp[i][j] = min (dp[i][j-coins[i-1]]+1, dp[i-1][j]);
+                else{
+                    dp[i][j] = dp[i-1][j];
+                }
+            }
+        }
+
+        if(dp[n][amount]==INT_MAX-1)
         return -1;
-        return ans;
+        return dp[n][amount];
     }
 };
