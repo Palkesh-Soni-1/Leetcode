@@ -55,6 +55,7 @@ Leetcode Problems
 | [0454-4sum-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -339,6 +340,7 @@ Leetcode Problems
 | [0368-largest-divisible-subset](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -761,6 +763,7 @@ Leetcode Problems
 | [0047-permutations-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0047-permutations-ii) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0494-target-sum) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
