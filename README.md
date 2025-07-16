@@ -162,6 +162,7 @@ Leetcode Problems
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -360,6 +361,7 @@ Leetcode Problems
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
