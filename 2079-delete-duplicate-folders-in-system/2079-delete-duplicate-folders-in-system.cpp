@@ -64,7 +64,6 @@ public:
         serialize(root);
         markDuplicates();
 
-        // Collect remaining paths
         vector<vector<string>> result;
         vector<string> temp;
         collect(root, temp, result);
