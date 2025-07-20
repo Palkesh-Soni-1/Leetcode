@@ -68,5 +68,5 @@ public:
         vector<string> temp;
         collect(root, temp, result);
         return result;
-    }
+ }
 };
