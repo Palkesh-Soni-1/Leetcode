@@ -111,6 +111,7 @@ Leetcode Problems
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -215,6 +216,7 @@ Leetcode Problems
 | [1798-max-number-of-k-sum-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -637,6 +639,7 @@ Leetcode Problems
 | [1894-merge-strings-alternately](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -839,6 +842,7 @@ Leetcode Problems
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Counting
 |  |
 | ------- |
@@ -1058,4 +1062,8 @@ Leetcode Problems
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
