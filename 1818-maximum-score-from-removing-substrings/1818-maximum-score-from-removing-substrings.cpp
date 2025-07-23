@@ -1,14 +1,14 @@
 class Solution {
 public:
-    int maximumGain(std::string s, int x, int y) {
+    int maximumGain(string s, int x, int y) {
         if (x < y) {
-            std::swap(x, y);
-            std::reverse(s.begin(), s.end());
+            swap(x, y);
+            reverse(s.begin(), s.end());
         }
 
         long long totalPoints = 0;
 
-        std::vector<char> stack1;
+        vector<char> stack1;
         for (char c : s) {
             if (c == 'b' && !stack1.empty() && stack1.back() == 'a') {
                 stack1.pop_back();
@@ -18,7 +18,7 @@ public:
             }
         }
 
-        std::vector<char> stack2;
+        vector<char> stack2;
         for (char c : stack1) {
             if (c == 'a' && !stack2.empty() && stack2.back() == 'b') {
                 stack2.pop_back();
