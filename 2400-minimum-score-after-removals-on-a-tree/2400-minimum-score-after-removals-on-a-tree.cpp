@@ -1,44 +1,32 @@
 class Solution {
-private:
-    vector<vector<int>> adj;
-    vector<int> nums;
-    vector<int> xorSubtree;
-    vector<int> parent;
-    vector<int> entry;
-    vector<int> exit;
-    int timer;
-
-    void dfs(int u, int p) {
-        parent[u] = p;
-        entry[u] = timer++;
-        xorSubtree[u] = nums[u];
-        for (int v : adj[u]) {
-            if (v != p) {
-                dfs(v, u);
-                xorSubtree[u] ^= xorSubtree[v];
-            }
-        }
-        exit[u] = timer++;
-    }
-
-    bool isInSubtree(int parentNode, int childNode) {
-        return entry[parentNode] <= entry[childNode] && exit[childNode] <= exit[parentNode];
-    }
-
 public:
     int minimumScore(vector<int>& nums, vector<vector<int>>& edges) {
-        this->nums = nums;
         int n = nums.size();
-        adj.resize(n);
+        vector<vector<int>> adj(n);
         for (const auto& edge : edges) {
-            adj[edge[0]].push_back(edge[1]);
-            adj[edge[1]].push_back(edge[0]);
+            int u = edge[0], v = edge[1];
+            adj[u].push_back(v);
+            adj[v].push_back(u);
         }
-        xorSubtree.resize(n);
-        parent.resize(n, -1);
-        entry.resize(n);
-        exit.resize(n);
-        timer = 0;
+
+        vector<int> xorSubtree(n, 0);
+        vector<int> parent(n, -1);
+        vector<int> entry(n, 0), exit(n, 0);
+        int time = 0;
+
+        function<void(int, int)> dfs = [&](int u, int p) {
+            parent[u] = p;
+            entry[u] = time++;
+            xorSubtree[u] = nums[u];
+            for (int v : adj[u]) {
+                if (v != p) {
+                    dfs(v, u);
+                    xorSubtree[u] ^= xorSubtree[v];
+                }
+            }
+            exit[u] = time++;
+        };
+
         dfs(0, -1);
 
         int totalXOR = xorSubtree[0];
@@ -52,11 +40,11 @@ public:
                 if (parent[a2] == b2) swap(a2, b2);
 
                 int x, y, z;
-                if (isInSubtree(b1, b2)) {
+                if (entry[b1] <= entry[b2] && exit[b2] <= exit[b1]) {
                     x = xorSubtree[b2];
                     y = xorSubtree[b1] ^ xorSubtree[b2];
                     z = totalXOR ^ xorSubtree[b1];
-                } else if (isInSubtree(b2, b1)) {
+                } else if (entry[b2] <= entry[b1] && exit[b1] <= exit[b2]) {
                     x = xorSubtree[b1];
                     y = xorSubtree[b2] ^ xorSubtree[b1];
                     z = totalXOR ^ xorSubtree[b2];
