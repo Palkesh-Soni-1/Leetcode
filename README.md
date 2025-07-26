@@ -179,6 +179,7 @@ Leetcode Problems
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
 |  |
 | ------- |
@@ -938,6 +939,7 @@ Leetcode Problems
 | [3643-zero-array-transformation-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Stack
 |  |
 | ------- |
@@ -1053,6 +1055,7 @@ Leetcode Problems
 | [3548-find-the-count-of-good-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1063,6 +1066,7 @@ Leetcode Problems
 | ------- |
 | [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Merge Sort
 |  |
 | ------- |
