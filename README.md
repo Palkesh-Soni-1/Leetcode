@@ -29,6 +29,7 @@ Leetcode Problems
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0135-candy) |
@@ -346,6 +347,7 @@ Leetcode Problems
 | [0070-climbing-stairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0070-climbing-stairs) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0118-pascals-triangle](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0152-maximum-product-subarray) |
