@@ -188,6 +188,7 @@ Leetcode Problems
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -314,6 +315,7 @@ Leetcode Problems
 | [2690-house-robber-iv](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2690-house-robber-iv) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -711,6 +713,7 @@ Leetcode Problems
 | [3447-clear-digits](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -1056,6 +1059,7 @@ Leetcode Problems
 | [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [3790-fruits-into-baskets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -1091,6 +1095,7 @@ Leetcode Problems
 | [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+| [3790-fruits-into-baskets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
