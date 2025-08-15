@@ -479,6 +479,7 @@ Leetcode Problems
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -522,6 +523,7 @@ Leetcode Problems
 | [0190-reverse-bits](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -557,6 +559,7 @@ Leetcode Problems
 | [0231-power-of-two](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0231-power-of-two) |
 | [0273-integer-to-english-words](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
