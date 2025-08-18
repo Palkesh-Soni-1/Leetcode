@@ -62,6 +62,7 @@ Leetcode Problems
 | [0594-longest-harmonious-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0679-24-game) |
 | [0724-find-pivot-index](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0735-asteroid-collision) |
@@ -483,6 +484,7 @@ Leetcode Problems
 | [0326-power-of-three](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0679-24-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [0867-new-21-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0867-new-21-game) |
 | [0870-magic-squares-in-grid](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0870-magic-squares-in-grid) |
@@ -831,6 +833,7 @@ Leetcode Problems
 | [0090-subsets-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0679-24-game) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
