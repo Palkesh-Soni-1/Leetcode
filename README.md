@@ -57,6 +57,7 @@ Leetcode Problems
 | [0485-max-consecutive-ones](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -451,6 +452,7 @@ Leetcode Problems
 | [0074-search-a-2d-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0498-diagonal-traverse](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0854-making-a-large-island) |
@@ -727,6 +729,7 @@ Leetcode Problems
 | ------- |
 | [0054-spiral-matrix](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0735-asteroid-collision) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
