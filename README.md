@@ -526,6 +526,7 @@ Leetcode Problems
 | [2998-count-symmetric-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3548-find-the-count-of-good-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
