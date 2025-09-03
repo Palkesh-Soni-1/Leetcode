@@ -176,6 +176,7 @@ Leetcode Problems
 | [3227-find-missing-and-repeated-values](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3429-special-array-i) |
@@ -357,6 +358,7 @@ Leetcode Problems
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -532,6 +534,7 @@ Leetcode Problems
 | [2998-count-symmetric-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3548-find-the-count-of-good-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
@@ -1130,6 +1133,7 @@ Leetcode Problems
 | [2202-sum-of-k-mirror-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/2998-count-symmetric-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -1164,4 +1168,8 @@ Leetcode Problems
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/0867-new-21-game) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Palkesh-Soni-1/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
